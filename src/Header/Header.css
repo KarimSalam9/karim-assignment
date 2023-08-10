@@ -1,0 +1,85 @@
+.HeaderContainer{
+    position: absolute;
+    width: 100%;
+    height: 30%;
+}
+.NavBar{
+    position: relative;
+    height: 15%;
+    border-bottom: 1px solid black;
+    background-color: black;
+}
+.HomeImg{
+    z-index: 999;
+    left: 0.6%;
+    position: absolute;
+    top: 20%;
+}
+.Logo{
+    background-color: #009688;
+    position: absolute;
+    left: 0%;
+    height: 100%;
+    width: 4.5%;
+    color: white;
+    font-size: 0.7em;
+    text-align: right;
+    border: 1px solid #009688;;
+}
+.Team{
+    position: absolute;
+    left: 4.5%;
+    height: 100%;
+    width: 3.5%;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.Work{
+    position: absolute;
+    left: 8%;
+    height: 100%;
+    width: 3.5%;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.Price{
+    position: absolute;
+    left: 11.5%;
+    height: 100%;
+    width: 3.5%;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.Contact{
+    position: absolute;
+    left: 15%;
+    height: 100%;
+    width: 3.5%;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.DropDown{
+    position: absolute;
+    left: 19.5%;
+    height: 100%;
+    width: 5%;
+    background-color: transparent;
+    color: white;
+    border: 0; 
+}
+.SearchImg{
+    position: absolute;
+    z-index: 999;
+    right: 0.8%;
+    top: 20%;
+}
+.DesertImg{
+    position: absolute;
+    left: 0%;
+    height: 85%;
+    width: 100%;
+}
