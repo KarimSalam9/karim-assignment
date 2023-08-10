@@ -118,11 +118,31 @@ function Footer(props) {
           Follow Us
         </h2>
         <div className="SocialMediaIcons">
-          <img className="Facebook" src="facebook.png"></img>
-          <img className="Twitter" src="twitter.png"></img>
-          <img className="Gmail" src="google-plus.png"></img>
-          <img className="Instagram" src="instagram.png"></img>
-          <img className="LinkedIn" src="linkedIn.png"></img>
+          <img
+            className="Facebook"
+            style={{ marginRight: "1%" }}
+            src="facebook.png"
+          ></img>
+          <img
+            className="Twitter"
+            style={{ marginRight: "1%" }}
+            src="twitter.png"
+          ></img>
+          <img
+            className="Gmail"
+            style={{ marginRight: "1%" }}
+            src="google-plus.png"
+          ></img>
+          <img
+            className="Instagram"
+            style={{ marginRight: "1%" }}
+            src="instagram.png"
+          ></img>
+          <img
+            className="LinkedIn"
+            style={{ marginRight: "1%" }}
+            src="linkedIn.png"
+          ></img>
         </div>
       </div>
     </div>
